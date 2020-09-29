@@ -1,5 +1,5 @@
-[netflix:](https://bugcrowd.com/netflix)
-[fca:](https://bugcrowd.com/fca)
+netflix: https://bugcrowd.com/netflix
+fca: https://bugcrowd.com/fca
 optimizely: https://bugcrowd.com/optimizely
 under armour: https://bugcrowd.com/underarmour
 seek: https://bugcrowd.com/seek
