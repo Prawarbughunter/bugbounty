@@ -1,4 +1,4 @@
-"vulnerability disclosure program" -nl -de <br/>
+- ["vulnerability disclosure program" -nl -de](https://www.google.com/search?sxsrf=ALeKk01oBmj2pGTyRoqalYS-HZg4S9pfNg%3A1601451363741&source=hp&ei=YzV0X8H8KvaO4-EPtP6KyA4&q=%22vulnerability+disclosure+program%22+-nl+-de&oq=%22vulnerability+disclosure+program%22+-nl+-de&gs_lcp=CgZwc3ktYWIQA1CGB1iGB2DBDmgAcAB4AIABmwGIAZsBkgEDMC4xmAEAoAECoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwiBuqKdr5DsAhV2xzgGHTS_AukQ4dUDCAc&uact=5) <br/>
 "vulnerability disclosure program" site: -bugcrowd.com -hackerone.com<br/>
 "responsible disclosure program" site: -bugcrowd.com -hackerone.com<br/>
 "responsible disclosure program" site: -bugcrowd.com -hackerone.com -synack.com<br/>
